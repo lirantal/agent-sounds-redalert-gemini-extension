@@ -8,7 +8,7 @@
 
 This Gemini CLI extension plays random Red Alert sounds before and after the agent executes a task.
 
-![command-and-conquer-red-alert-2-image](https://github.com/user-attachments/assets/bc63f0bf-8cf6-408e-b8ba-92b5eb052807)
+<img width="616" height="353" alt="image" src="https://github.com/user-attachments/assets/539e7eb6-9787-4c45-b70b-4ff9ed0582be" />
 
 ## Features
 
