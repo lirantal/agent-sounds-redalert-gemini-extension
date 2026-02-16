@@ -1,0 +1,9 @@
+{
+  "name": "agent-sounds-redalert-gemini-extension",
+  "version": "1.0.0",
+  "description": "Plays random Red Alert game-sourced sounds before and after agent execution.",
+  "publisher": "local",
+  "engines": {
+    "gemini": "*"
+  }
+}

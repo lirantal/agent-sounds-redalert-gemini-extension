@@ -1,0 +1,28 @@
+{
+  "hooks": {
+    "BeforeAgent": [
+      {
+        "hooks": [
+          {
+            "name": "play-sound-before",
+            "type": "command",
+            "command": "\"${extensionPath}/scripts/play_sound.sh\" before > /dev/null 2>&1 & echo {}",
+            "timeout": 5000
+          }
+        ]
+      }
+    ],
+    "AfterAgent": [
+      {
+        "hooks": [
+          {
+            "name": "play-sound-after",
+            "type": "command",
+            "command": "\"${extensionPath}/scripts/play_sound.sh\" after > /dev/null 2>&1 & echo {}",
+            "timeout": 5000
+          }
+        ]
+      }
+    ]
+  }
+}
