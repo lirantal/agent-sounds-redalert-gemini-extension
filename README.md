@@ -39,3 +39,7 @@ gemini extensions link .
 ## Credits
 
 The sound assets in this extension were generated using [fish.audio/discovery/](https://fish.audio/discovery/).
+
+## Contributing
+
+Please consult [CONTRIBUTING](./CONTRIBUTING.md) for guidelines on contributing to this project.
